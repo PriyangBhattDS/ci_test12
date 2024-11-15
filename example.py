@@ -7,8 +7,10 @@ def greet(name):
 def add(a, b):
     return a + b     # need same between a+b
 
+
 def mul(a, b):
     return a * b
+
 
 greet("priyang")
 
