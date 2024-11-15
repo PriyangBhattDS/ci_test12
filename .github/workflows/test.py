@@ -9,7 +9,7 @@ class TestMathFunctions(unittest.TestCase):
 
 
     def test_mul(self):
-        self.assertEqual(mul(11, 2), 22)
+        self.assertEqual(mul(11, 2), 20)
         self.assertEqual(mul(10, 3), 30)
 
 if __name__ == '__main__':
