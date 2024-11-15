@@ -16,4 +16,4 @@ greet("priyang")
 
 if __name__ == "__main__":
     print(add(3, 5))
-    print(mul(4,5))
+    print(mul(4, 5))
